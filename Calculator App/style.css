@@ -1,0 +1,39 @@
+body{
+    background-color: azure;
+    background-image: url(calculator.jpg);
+    background-size: cover;}
+.main{
+    border: 5px solid palegreen;
+    width: 192px;
+    margin:  25px auto;
+    border-radius: 4px;
+    height: 235px;
+    background-color:plum ;
+}
+.result{
+    width: 95%;
+    background-color:greenyellow;
+    text-align: center;
+    border-radius: 100px;
+    padding-left: 5px;
+ 
+}
+.btn{
+    width:43px;
+    margin: 1px;
+    border-radius: 17px;
+    border-color:#304FFE;
+    background-color:gold ;
+    color:  black ;
+    border-bottom-left-radius: 20px;
+    padding: 5px 5px 0 5px;
+    border-top-left-radius: 20px;
+    border-end-end-radius: 20px;
+    border-radius: 100px;
+
+}
+p{
+    font-size:larger;
+}
+
+
