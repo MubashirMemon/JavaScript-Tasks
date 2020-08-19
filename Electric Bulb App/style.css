@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+}
+.image{
+    height: 400px;
+    width: 250px;
+}
+button{
+    border-radius: 150px;
+    background-color:#FF0266;
+    border-color: #B9F6CA;
+    border-width: 10px;
+    color: greenyellow;
+}
+p{
+    color: greenyellow;
+}
+h2{
+    color: violet}
